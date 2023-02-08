@@ -1,14 +1,25 @@
 apiVersion: v1
 entries:
+  hellochina:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-08T16:47:11.705519+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 50d4b1305417fd92d7767e5f0c0078c6a36aae35db69c099fc1375b02c273941
+    name: hellochina
+    type: application
+    urls:
+    - https://caoheyang.github.io/helm-chart/hellochina-0.1.0.tgz
+    version: 0.1.0
   helloworld:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-08T16:35:18.064536+08:00"
+    created: "2023-02-08T16:47:11.70584+08:00"
     description: A Helm chart for Kubernetes
-    digest: 12ea1aa899ce51a2b9997d5b01050691f68cb1197bf5f6891c40762bcc0dceef
+    digest: 42fa7d9ad9943d97c07da6cfcf6d8f83dc8cd192da04797e9ede0157475abb8c
     name: helloworld
     type: application
     urls:
     - https://caoheyang.github.io/helm-chart/helloworld-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-08T16:35:18.064059+08:00"
+generated: "2023-02-08T16:47:11.705101+08:00"
